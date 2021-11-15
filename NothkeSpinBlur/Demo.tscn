@@ -40,7 +40,7 @@ tracks/1/keys = {
 [node name="Spatial" type="Spatial"]
 
 [node name="MeshInstance" type="MeshInstance" parent="."]
-transform = Transform( 0.704536, 0, -0.709668, 0, 1, 0, 0.709668, 0, 0.704536, -0.000659943, 0, -7.99472 )
+transform = Transform( 0.640595, 0, -0.767879, 0, 1, 0, 0.767879, 0, 0.640595, -0.016393, 0, -7.86886 )
 mesh = SubResource( 2 )
 material/0 = null
 script = ExtResource( 1 )
